@@ -1,1 +1,1 @@
-# wep_scraping_wuzzuf
+# web_scraping_wuzzuf
